@@ -10,3 +10,8 @@ These are in Wales:
 
 * Yr Wyddfa
 * Tryfan
+
+These are in Scotland
+
+* Cairngorm
+* Ben Nevis
