@@ -1,2 +1,5 @@
-# 20191007-teaching
-Notes from the GitHub and agile class
+Here is a list of mountains
+===========================
+
+* Scafell Pike
+* Helvellyn
